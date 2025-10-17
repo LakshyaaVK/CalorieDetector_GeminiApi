@@ -8,7 +8,7 @@ in terminal : npm install
               or
               npx vite
 
-Live Demo -->   https://x1l52z5s-5173.asse.devtunnels.ms/
+Live Demo -->   https://lvk-calorie-ai.netlify.app/
 
 Image Upload: Users can click to upload or drag-and-drop a food photo.
 
